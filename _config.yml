@@ -1,0 +1,28 @@
+name: MarryMe Photography
+favicon: null
+layout_spectrum: 0.3161818890366703
+typography_spectrum: 0.6991214449517429
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9606088080909103
+  lightness: 0.27173565491102636
+  saturation: 0.5630084802396595
+  rhythmicContrast: 0.8394528783392161
+purpose: []
